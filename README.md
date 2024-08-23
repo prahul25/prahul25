@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **MERN JS**
 
-- 👨‍💻 All of my projects are available at [https://www.crio.do/learn/portfolio/palrahulkumar2002/?edit=true](https://www.crio.do/learn/portfolio/palrahulkumar2002/?edit=true)
+- 👨‍💻 All of my projects are available at [Portfolio](https://rahulpdev.in)
 
-- 💬 Ask me about **HTML CSS JAVASCRIPT REACT**
+- 💬 Ask me about **JAVASCRIPT TYPESCRIPT REACT NEXTJS MONGODB NODEJS**
 
 - 📫 How to reach me **palrahulkumar2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wWWb-9NW9usMYIgdOYpzosvz9qhgbpDB/view?usp=drive_link](https://drive.google.com/file/d/1wWWb-9NW9usMYIgdOYpzosvz9qhgbpDB/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gXmc3CmUwwjgjKjNNNjxUmi061ArMpfC/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
